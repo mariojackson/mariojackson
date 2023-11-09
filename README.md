@@ -19,7 +19,7 @@ I'm a passionate Software Engineer dedicated to crafting innovative and efficien
 Here are some of the technologies I work with:
 
 * **Frontend**: `HTML, CSS, JavaScript, TypeScript, React, Redux, Angular`
-* **Backend**: `Node.js, Express.js, PHP, Symfony, Ruby on Rails`
+* **Backend**: `Node.js, Express.js, PHP, Symfony, Ruby on Rails, Go`
 * **Database**: `MongoDB, MySQL, PostgreSQL`
 * **DevOps**: `Docker, AWS`
 * **Others**: `Git, REST API Design, Agile Scrum, Linux`
@@ -38,6 +38,6 @@ Feel free to connect with me on LinkedIn:
 
 ---
 
-Thank you for visiting my GitHub Profile! 😄
+Thank you for visiting my GitHub Profile!
 
 ⭐️ From [MarioJackson](https://github.com/mariojackson)
