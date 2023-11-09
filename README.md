@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-![Anurag's GitHub stats](github-readme-stats-henna-rho-40.vercel.app/api?username=mariojackson&show_icons=true&theme=nord)
+![Anurag's GitHub stats](https://github-readme-stats-henna-rho-40.vercel.app/api?username=mariojackson&show_icons=true&theme=nord)
 
 ## About Me
 
