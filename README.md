@@ -4,7 +4,7 @@ Welcome to my GitHub hub, where I explore the limitless world of software engine
 
 ---
 
-![Mario's GitHub stats](https://github-readme-stats-henna-rho-40.vercel.app/api?username=mariojackson&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=8B949E)
+![Mario's GitHub stats](https://github-readme-stats-henna-rho-40.vercel.app/api?username=mariojackson&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 
 ---
 
