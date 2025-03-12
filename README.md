@@ -20,6 +20,7 @@ Here are some of the technologies I work with:
 
 * **Frontend**: `HTML, CSS, JavaScript, TypeScript, React, Redux, Angular`
 * **Backend**: `Node.js, Express.js, PHP, Symfony, Ruby on Rails, Go`
+* **Mobile** `SwiftUI, React Native`
 * **Database**: `MongoDB, MySQL, PostgreSQL`
 * **DevOps**: `Docker, AWS`
 * **Others**: `Git, REST API Design, Agile Scrum, Linux`
@@ -30,11 +31,17 @@ Here are some of the technologies I work with:
 
 I also enjoy sharing my thoughts and narratives through my blog:
 
-* [Jackson Software](https://jackson.software) 📝
+* [Swift Mario](https://swiftmario.com) 📝
 
 Feel free to connect with me on LinkedIn:
 
 * [LinkedIn](https://www.linkedin.com/in/mario-jackson-software-engineer) 💼
+
+---
+
+## My iOS App
+
+* [Jiu-Jitsu Logs](https://jiujitsulogs.com)
 
 ---
 
